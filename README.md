@@ -32,7 +32,7 @@ Pandas – Data cleaning, transformation, EDA
 
 
 ## 📚 Dataset Information: 
-
+Link:  https://github.com/Aarti07-spec/Google-Play-Store-data-analysis/blob/main/Play%20Store%20Data.csv
 
 
 ## 🛠️ Detailed Project Breakdown
